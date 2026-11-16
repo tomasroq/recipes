@@ -6,4 +6,4 @@
 * pepper
 ## Instructions
 * Put one avocado into a bowl and mix them.
-* Add a bit of pepper and salt.
+* Add a bit of lime, salt, and pepper.
