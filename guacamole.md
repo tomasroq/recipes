@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-Add all the ingredients to a bowl and mix them.
+* Put one avocado into a bowl and mix them.
